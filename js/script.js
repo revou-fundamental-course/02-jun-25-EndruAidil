@@ -1,7 +1,7 @@
 console.log("Script loaded");
 // wellcome message 
 var name = prompt("Masukkan nama Anda:");
-document.getElementById("nama").innerText = name
+document.getElementById("name").innerText = name
 
 // Toggle & Responsive Navigation
 const navSlide = () => {
